@@ -2,12 +2,12 @@
 Using JupyterNotebook to generate a comprehensive report of the school district. 
 
 ## Overview 
-Explain the purpose of this analysis.
+Client requires help with analyzing kye metrics of a school district's data. The data will be presented during the district's board meeting to help allocate future funding for each school within the district. The data involves two raw CSV files: one focusing on the metrics of each school within the district and one focusing on each individual students within the school district. 
 
 ### Software
-Anaconda - 4.11.0
-Jupyter Notebook - 6.4.8
-Python - 3.7.11
+- Anaconda - 4.11.0
+- Jupyter Notebook - 6.4.8
+- Python - 3.7.11
 
 ## Results 
 Using bulleted lists and images of DataFrames as support, address the following questions.
